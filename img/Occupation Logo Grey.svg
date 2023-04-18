@@ -3,18 +3,17 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #fff;
-        stroke-linejoin: round;
+        fill: #f6f3ee;
       }
 
       .cls-1, .cls-2 {
         stroke: #b3b3b3;
-        stroke-width: 2px;
+        stroke-miterlimit: 10;
       }
 
       .cls-2 {
         fill: none;
-        stroke-miterlimit: 10;
+        stroke-width: 2px;
       }
     </style>
   </defs>
